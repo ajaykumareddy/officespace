@@ -1,14 +1,14 @@
 {
-  "name": "angular-seed",
+  "name": "officespace",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Office Space",
+  "repository": "https://github.com/ajaykumareddy/officespace",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.7.5",
-    "angular-loader": "^1.7.5",
-    "angular-route": "^1.7.5",
+    "angular": "^1.8.2",
+    "angular-loader": "^1.8.2",
+    "angular-route": "^1.8.2",
     "html5-boilerplate": "0.0.1"
   },
   "devDependencies": {
